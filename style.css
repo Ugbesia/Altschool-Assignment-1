@@ -1,0 +1,21 @@
+#head{
+    list-style: none;
+    text-decoration: none;
+    
+     display: flex;
+    
+}
+body{
+    background-color: lightslategrey;
+}
+.main{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#Bio{
+    margin: 0 80px;
+}
