@@ -5,7 +5,7 @@
     align-items: center;
 }
 body{
-    background-color: lightslategrey;
+    background-color: none;
 }
 .main{
     margin: 0;
@@ -17,4 +17,10 @@ body{
 }
 #Bio{
     margin: 0 80px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
